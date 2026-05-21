@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Student" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="26" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="com.universty.University.Student" />
+    <module name="Java 2 sem" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\Admin\Desktop\Java 2 sem\openjfx-26.0.1_windows-x64_bin-sdk\javafx-sdk-26.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
